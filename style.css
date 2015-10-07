@@ -1,0 +1,57 @@
+nav{
+  width:100%;
+  background-color: orange;
+  text-align: center;
+
+}
+
+nav ul{
+display:inline-block;
+
+}
+
+nav li{
+float:right;
+margin-right:10px;
+}
+
+nav li a {
+  display:inline-block;
+text-decoration:none;
+
+}
+
+nav li:hover {
+  background-color:white;
+  color:orange;
+}
+
+aside, section{
+  width:14%;
+  display:inline-block;
+}
+
+section{
+  width:70%;
+}
+
+aside img{
+  width:90%;
+}
+
+.murray-image img{
+  display: inline-block;
+  width:30%;
+  height:auto;
+  margin: 0;
+  padding:0;
+
+}
+.murray-image{
+  display:inline-block;
+  width: 30%;
+}
+
+.asidepic img{
+  width:30%;
+}
